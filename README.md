@@ -1,4 +1,4 @@
-### SALVE👋, Futuro DEV e Tester hehe.
+Quality Assurance e Futuro DEV
 
 -Buscando estagio.
 
