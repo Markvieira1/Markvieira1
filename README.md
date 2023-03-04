@@ -1,7 +1,7 @@
 ### SALVE👋, Futuro DEV e Tester hehe.
 
-- 🔭 Buscando estagio.
-- 🤔 Estudando Js, C#, QA... enfim, Mil coisas ao mesmo tempo.
+-Buscando estagio.
+-Estudando Js, C#, QA... enfim, Mil coisas ao mesmo tempo.
 
 ##
 
