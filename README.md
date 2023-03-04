@@ -1,10 +1,10 @@
-Quality Assurance e Futuro DEV
+-Quality Assurance e Futuro DEV
 
 -Buscando estagio.
 
-I believe in vs code supremacy
+-Estudando Js, C#, QA... enfim, Mil coisas ao mesmo tempo.
 
-<p>-Estudando Js, C#, QA... enfim, Mil coisas ao mesmo tempo.</p>
+-I believe in vs code supremacy
 
 ##
 
